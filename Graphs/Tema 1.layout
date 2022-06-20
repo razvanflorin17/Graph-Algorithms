@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="ciclueuler.in" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="33" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="bfs.in" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="42" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="hamilton.in" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="74" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="maxflow.in" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="74179" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ciclueuler.out" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="biconex.in" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="27929" topLine="126" />
+		</Cursor>
+		<Folding>
+			<Collapse line="79" />
+			<Collapse line="86" />
+			<Collapse line="100" />
+			<Collapse line="117" />
+			<Collapse line="135" />
+			<Collapse line="150" />
+			<Collapse line="184" />
+			<Collapse line="192" />
+			<Collapse line="257" />
+			<Collapse line="320" />
+			<Collapse line="356" />
+			<Collapse line="367" />
+			<Collapse line="393" />
+			<Collapse line="414" />
+			<Collapse line="436" />
+			<Collapse line="515" />
+			<Collapse line="523" />
+			<Collapse line="559" />
+			<Collapse line="578" />
+			<Collapse line="586" />
+			<Collapse line="649" />
+			<Collapse line="728" />
+			<Collapse line="797" />
+			<Collapse line="831" />
+			<Collapse line="868" />
+			<Collapse line="893" />
+			<Collapse line="926" />
+			<Collapse line="1000" />
+			<Collapse line="1056" />
+			<Collapse line="1109" />
+			<Collapse line="1139" />
+			<Collapse line="1158" />
+			<Collapse line="1193" />
+			<Collapse line="1210" />
+			<Collapse line="1255" />
+			<Collapse line="1283" />
+			<Collapse line="1311" />
+			<Collapse line="1325" />
+			<Collapse line="1335" />
+			<Collapse line="1345" />
+			<Collapse line="1355" />
+			<Collapse line="1365" />
+			<Collapse line="1375" />
+			<Collapse line="1385" />
+			<Collapse line="1395" />
+			<Collapse line="1405" />
+			<Collapse line="1415" />
+		</Folding>
+	</File>
+	<File name="dfs.in" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="dfs.out" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="bfs.out" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="biconex.out" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

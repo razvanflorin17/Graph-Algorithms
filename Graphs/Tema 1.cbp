@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Tema 1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Tema 1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Tema 1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="apm.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="apm.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="bellmanford.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="bellmanford.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="bfs.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="bfs.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="biconex.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="biconex.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ciclueuler.in" />
+		<Unit filename="ciclueuler.out" />
+		<Unit filename="critical.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="critical.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ctc.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ctc.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="cuplaj.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="cuplaj.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="darb.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="darb.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="dfs.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="dfs.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="dijkstra.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="dijkstra.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="disjoint.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="disjoint.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="hamilton.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="hamilton.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="havelhakimi.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="havelhakimi.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Unit filename="maxflow.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="maxflow.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="royfloyd.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="royfloyd.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sortaret.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sortaret.out">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
